@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:id="@+id/nav_face_group" android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/camera"
+            android:title="Upload Face" />
+        <item
+            android:id="@+id/nav_training"
+            android:icon="@drawable/train"
+            android:title="Training Face" />
+        <item
+            android:id="@+id/nav_predict"
+            android:icon="@drawable/predict"
+            android:title="Predict Face" />
+    </group>
+
+    <group android:id="@+id/nav_signature_group" android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_upload_signature"
+            android:icon="@drawable/signature"
+            android:title="Upload Signature" />
+
+        <item
+            android:id="@+id/nav_training_signature"
+            android:icon="@drawable/train"
+            android:title="Training Signature" />
+
+        <item
+            android:id="@+id/nav_predict_signature"
+            android:icon="@drawable/list"
+            android:title="Predict Signature" />
+    </group>
+
+</menu>

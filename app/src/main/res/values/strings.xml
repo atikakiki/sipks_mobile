@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Attendance</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="agreement">I agree the terms and conditions.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main_bendahara">MainBendaharaActivity</string>
+    <string name="title_activity_upload">UploadActivity</string>
+    <string name="title_activity_predicty">PredictyActivity</string>
+    <string name="title_activity_train">TrainActivity</string>
+    <string name="pilih_posisi">Pilih Posisi Telah Tervifikasi</string>
+    <string name="bendahara_bopda">Bendahara BOPDA</string>
+    <string name="bendahara_bos">Bendahara BOS</string>
+    <string name="imei_anda_adalah">Imei Anda Adalah</string>
+    <string name="imei_tidak_terbaca">Imei Anda Tidak Terbaca</string>
+    <string name="Atur_imei">Atur Imei</string>
+    <string name="nama">Nama</string>
+    <string name="rupiah">Rp</string>
+    <string name="tanda">,00</string>
+    <string name="rekening_kosong">No. Rekenig Tidak Ada</string>
+    <string name="rincian_barang">Rincian Barang</string>
+    <string name="rincian_pembayaran">Rincian Pembayaran</string>
+    <string name="konfirmasi">Konfirmasi</string>
+    <string name="App_name1">Attendance</string>
+    <string name="login">Login</string>
+    <string name="Register">Register</string>
+    <string name="Pilih_Rekening">Pilih Rekening</string>
+    <string name="Dana_BOPDA">Dana BOPDA</string>
+    <string name="Dana_BOS">Dana BOS</string>
+    <string name="NIP">NIP</string>
+    <string name="Password">Password</string>
+    <string name="Pilih_Sekolah">Pilih Sekolah</string>
+    <string name="Send">Send</string>
+    <string name="Clear">Clear</string>
+    <string name="bagian">Bagian</string>
+    <string name="status">Status</string>
+    <string name="Capture">Capture</string>
+    <string name="fitur_train">Fitur ini digunakan untuk mengenali wajah oleh komputer setelah mengupload foto.</string>
+    <string name="hint_upload">1. Kedipkan mata untuk mengambil gambar dan mengupload foto.\n2. Upload Foto minimal 10 kali dengan wajah memenuhi kamera.</string>
+    <string name="Train">Train</string>
+    <string name="Transfer">Transfer</string>
+    <string name="data_kosong">Data Belum Ada</string>
+    <string name="Tunai">Tunai</string>
+    <string name="penyedia">Penyedia</string>
+    <string name="Penggunaan">Nama penggunaan</string>
+    <string name="sekolah">Nama Sekolah</string>
+    <string name="status_rc">Status</string>
+    <string name="belum">Belum Ada Posisi Yang Terverifikasi</string>
+</resources>

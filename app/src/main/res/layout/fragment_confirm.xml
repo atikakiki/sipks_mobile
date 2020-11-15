@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="id.ac.its.attendance.Konfirmasi.ConfirmFragment"
+    android:minWidth="1000dp"
+    android:orientation="vertical"
+    android:minHeight="1000dp">
+    <com.wonderkiln.camerakit.CameraView
+        android:id="@+id/camera"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        app:ckFacing="front"
+        android:adjustViewBounds="true" />
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+        <Button
+            android:id="@+id/btn_capture"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:text="@string/Capture"
+            android:layout_centerInParent="true"
+            android:textSize="12sp"
+            android:layout_marginBottom="20dp"
+            android:background="@drawable/camera_button"/>
+    </RelativeLayout>
+</LinearLayout>
